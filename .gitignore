@@ -1,0 +1,11 @@
+/spec/reports/
+/spec/examples.txt
+/tmp/
+
+# Gemfile.lock
+
+# JetBrains RubyMine
+.idea
+
+# Mac OS
+.DS_Store
